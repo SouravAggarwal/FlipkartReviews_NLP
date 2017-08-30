@@ -5,7 +5,7 @@ pymongo: for MongoDB
 textblob: for Sentimental Analysis
 selenium:  for PhantomJS
 requests:  to make HTTP request
-bs4:  Beautiful Soup 4
+bs4:  Beautiful Soup 
 
 
 
